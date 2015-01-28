@@ -15,3 +15,6 @@ print ("The object has "+str(e)+ " Joules of energy.")
 
 raw_input ("press enter to exit ")
 
+Andrew is friends with a ninja turtle.
+
+
